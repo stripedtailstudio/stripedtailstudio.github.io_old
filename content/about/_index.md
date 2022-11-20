@@ -7,4 +7,4 @@ Hano. I iz raccoon, minoritee woman own small biznuz. I mak stikerz.
 
 ![This is me][1]
 
-[1]: /img/dapolina.jpg
+[1]: /img/portfolio/raccoon.jpg
