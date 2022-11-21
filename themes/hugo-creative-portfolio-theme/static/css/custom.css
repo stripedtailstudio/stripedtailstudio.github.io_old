@@ -11,3 +11,16 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+/*.box-masonry:hover {
+  transform: scale(1.5);
+  z-index: 10;
+}*/
+
+div.my_logo {
+   width:100px; /*width of your image*/
+   height:100px; /*height of your image*/
+   background-image:url('./img/lilac.JPG');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}

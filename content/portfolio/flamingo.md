@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/flamingo.jpg"
+image = "img/portfolio/flamingo.JPG"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Flamingo Tika Masala?"
+title = "Flamingo"
 draft = false
-weight = 2
+weight = 12
 +++
